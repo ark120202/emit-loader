@@ -1,0 +1,12 @@
+{
+  "name": "emit-loader",
+  "version": "1.0.0",
+  "description": "Loader that emits raw entry files, without webpack wrapper",
+  "main": "index.js",
+  "repository": "https://github.com/ark120202/emit-loader.git",
+  "author": "ark120202",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "*"
+  }
+}
